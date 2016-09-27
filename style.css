@@ -12,12 +12,12 @@ h2 {
 .crop {
 	display: block;
 	margin: 0 auto;
-	width: 300px;
-	height: 400px;
+	width: 180px;
+	height: 270px;
 	overflow: hidden;
 }
 
 .crop img {
-	witdh: 300px;
-	height: 400px;
+	width: 180px;
+	height: 320px;
 }
