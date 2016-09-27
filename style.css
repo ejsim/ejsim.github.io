@@ -1,4 +1,10 @@
 h1 {
 	text-align: center;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
 	color: #808080;
+	font-style: italic;
 }
