@@ -21,3 +21,41 @@ h2 {
 	width: 180px;
 	height: 320px;
 }
+
+.header {
+	background-color: #003366;
+	border-style: dashed;
+}
+
+.alignLeft {
+	float: left;
+	width: 33%;
+	text-align: left;
+}
+
+.alignCenter {
+	color: black;
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.alignRight {
+	color: black;
+	float: right;
+	width: 33%;
+	text-align: right;
+}
+
+.whiteLink {
+	color: white;
+}
+
+.clear {
+	clear: both;
+	line-height: 0;
+}
+
+.para {
+	padding-left: 25px;
+}
