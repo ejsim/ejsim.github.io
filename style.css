@@ -11,6 +11,14 @@ h2 {
 	font-size: 32px;
 }
 
+h3 {
+	font-weight: bold;
+}
+
+h4 {
+	font-style: italic;
+}
+
 .crop {
 	display: block;
 	margin: 0 auto;
