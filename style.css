@@ -1,12 +1,14 @@
 h1 {
 	text-align: center;
 	font-weight: bold;
+	font-size: 40px;
 }
 
 h2 {
 	text-align: center;
 	color: #808080;
 	font-style: italic;
+	font-size: 32px;
 }
 
 .crop {
@@ -25,6 +27,8 @@ h2 {
 .header {
 	background-color: #003366;
 	border-style: dashed;
+	border-color: #ffffff;
+	font-family: Helvetica;
 }
 
 .alignLeft {
@@ -47,8 +51,8 @@ h2 {
 	text-align: right;
 }
 
-.whiteLink {
-	color: white;
+.linkColor {
+	color: #CCCCCC;
 }
 
 .clear {
@@ -58,4 +62,8 @@ h2 {
 
 .para {
 	padding-left: 25px;
+}
+
+.content {
+	font-family: serif;
 }
